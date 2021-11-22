@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-20T16:11:57 IST" name="Default suite" finished-at="2021-11-20T16:13:15 IST" duration-ms="77868">
+    <groups>
+    </groups>
+    <test started-at="2021-11-20T16:11:57 IST" name="Default test" finished-at="2021-11-20T16:13:15 IST" duration-ms="77868">
+      <class name="com.mindtree.runner.BigSmall">
+        <test-method signature="SignIn()[pri:1, instance:com.mindtree.runner.BigSmall@2e385cce]" started-at="2021-11-20T16:11:57 IST" name="SignIn" finished-at="2021-11-20T16:12:23 IST" duration-ms="26333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn -->
+        <test-method signature="homePageLanding()[pri:2, instance:com.mindtree.runner.BigSmall@2e385cce]" started-at="2021-11-20T16:12:23 IST" name="homePageLanding" finished-at="2021-11-20T16:12:28 IST" duration-ms="4192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageLanding -->
+        <test-method signature="searchProductTesting()[pri:3, instance:com.mindtree.runner.BigSmall@2e385cce]" started-at="2021-11-20T16:12:28 IST" name="searchProductTesting" finished-at="2021-11-20T16:12:32 IST" duration-ms="4341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductTesting -->
+        <test-method signature="selectProductTesting()[pri:4, instance:com.mindtree.runner.BigSmall@2e385cce]" started-at="2021-11-20T16:12:32 IST" name="selectProductTesting" finished-at="2021-11-20T16:12:54 IST" duration-ms="21817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProductTesting -->
+        <test-method signature="addToCardTesting()[pri:5, instance:com.mindtree.runner.BigSmall@2e385cce]" started-at="2021-11-20T16:12:54 IST" name="addToCardTesting" finished-at="2021-11-20T16:12:54 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCardTesting -->
+        <test-method signature="wishlisttesting()[pri:6, instance:com.mindtree.runner.BigSmall@2e385cce]" started-at="2021-11-20T16:12:54 IST" name="wishlisttesting" finished-at="2021-11-20T16:13:00 IST" duration-ms="5726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishlisttesting -->
+        <test-method signature="addGIftCard()[pri:7, instance:com.mindtree.runner.BigSmall@2e385cce]" started-at="2021-11-20T16:13:00 IST" name="addGIftCard" finished-at="2021-11-20T16:13:03 IST" duration-ms="3052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addGIftCard -->
+        <test-method signature="addCOD()[pri:8, instance:com.mindtree.runner.BigSmall@2e385cce]" started-at="2021-11-20T16:13:03 IST" name="addCOD" finished-at="2021-11-20T16:13:03 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCOD -->
+        <test-method signature="logintest()[pri:9, instance:com.mindtree.runner.BigSmall@2e385cce]" started-at="2021-11-20T16:13:03 IST" name="logintest" finished-at="2021-11-20T16:13:09 IST" duration-ms="6388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method signature="coGift()[pri:10, instance:com.mindtree.runner.BigSmall@2e385cce]" started-at="2021-11-20T16:13:09 IST" name="coGift" finished-at="2021-11-20T16:13:15 IST" duration-ms="5243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coGift -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.mindtree.runner.BigSmall@2e385cce]" started-at="2021-11-20T16:13:15 IST" name="closeDriver" finished-at="2021-11-20T16:13:15 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.mindtree.runner.BigSmall -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
